@@ -1,0 +1,13 @@
+eamodio.gitlens
+bradlc.vscode-tailwindcss
+nixon.env-cmd-file-syntax
+robertz.code-snapshot
+tal7aouy.rainbow-bracket
+dsznajder.es7-react-js-snippets
+esbenp.prettier-vscode
+formulahendry.auto-rename-tag
+vscode-icons-team.vscode-icons
+wayou.vscode-todo-highlight
+wix.vscode-import-cost
+jonkwheeler.styled-components-snippets
+ms-vsliveshare.vsliveshare
