@@ -11,3 +11,4 @@ wayou.vscode-todo-highlight
 wix.vscode-import-cost
 jonkwheeler.styled-components-snippets
 ms-vsliveshare.vsliveshare
+dzhavat.bracket-pair-toggler
